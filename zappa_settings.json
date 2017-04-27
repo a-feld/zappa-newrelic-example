@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "app.app", 
+        "s3_bucket": "zappa-btwtdrtucrm",
+        "exception_handler": "app.exception_handler",
+        "aws_region": "us-west-2"
+    }
+}
